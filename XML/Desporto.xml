@@ -59,18 +59,29 @@
 	<fanart>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</fanart>
 </item>
 
+<item> 
+<title>[COLOR gold]SPORT TV 1[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link> 
+</item> 
 
+<item> 
+<title>[COLOR gold]SPORT TV 2[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2076.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2</link> 
+</item> 
 
+<item> 
+<title>[COLOR gold]SPORT TV 3[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2075.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3</link> 
+</item> 
 
-#EXTINF:-1,POR SportTV 1 HD
-http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2077.ts
-#EXTINF:-1,POR SportTV 2 HD
-http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2076.ts
-#EXTINF:-1,POR SportTV 3 HD
-http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2075.ts
-#EXTINF:-1,POR SportTV 4 HD
-http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2074.ts
-#EXTINF:-1,POR SportTV 5 HD
-http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2073.ts
+<item> 
+<title>[COLOR gold]SPORT TV 4[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2074.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4</link> 
+</item> 
+
+<item> 
+<title>[COLOR gold]SPORT TV 5[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2073.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5</link> 
+</item> 
 
 </items>
