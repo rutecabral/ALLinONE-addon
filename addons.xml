@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+	
+<addon id="repo.allinone" name="ALLinONE addon repo" version="0.1" provider-name="JCG">
+	<extension point="xbmc.addon.repository" name="ALLinONE repo">
+		<info compressed="false">http://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>ALLinONE repo - Compilação de vários links e addons</summary>
+		<description>Addon para uso pessoal
+		Compilação de vários links e addons, créditos aos respectivos autores</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.video.allinone"
+       name="[COLOR red] ALL[COLOR blue]in[/COLOR]ONE [/COLOR]"
+       version="0.4"
+       provider-name="JCG">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+     <import addon="script.module.livestreamer" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>ALLinONE - Compilação de vários links e addons</summary>
+    <description>Addon para uso pessoal
+Compilação de vários links e addons, créditos aos respectivos autores</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>

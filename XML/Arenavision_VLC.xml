@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/ss6rdyizl/arena_1.png",[COLOR violet]Arenavision 1[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=e54e3095b406b870e4380312810160971de37196&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/771oqcm8x/arena_2.png",[COLOR violet]Arenavision 2[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=c950cbbfbfb27b8d93bfa2e69149ab775d3aad72&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/kp8l2mye9/arena_3.png",[COLOR violet]Arenavision 3[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=f33f6b1e6bae940e45d3e1b9f7bfe4c34e969aa3&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/sw0ku7ogx/arena_4.png",[COLOR violet]Arenavision 4[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=c648625319d6d4890ad809038ca529a347107bac&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/wtnujmba9/arena_5.png",[COLOR violet]Arenavision 5[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=7a64e3dd715f28bda69095b2625e2eb0354936b6&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/4i2amkrdt/arena_6.png",[COLOR violet]Arenavision 6[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=5d2e9ed30c83fc9af260f71b6cff5b6bdb97d22c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/szueagty9/arena_7.png",[COLOR violet]Arenavision 7[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=633c085f32fbd6918146603eb2ef3be2c9aa0981&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/5a4ylrvkx/arena_8.png",[COLOR violet]Arenavision 8[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=b3ff36a1ae5c349dec02e2efaf8dee5e65721405&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/o3qrirtsx/arena_9.png",[COLOR violet]Arenavision 9[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=db52bd3a7514bfeccc247287215fa9d130da0886&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/ifkgyfh41/arena_10.png",[COLOR violet]Arenavision 10[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=19b1516ef919983a6dbdd8b6400392b9e4373eec&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/6rqf3vrz5/arena_11.png",[COLOR violet]Arenavision 11[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=1482f7fa51c82b9885306f8b9d7739939e15fcaa&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/5dys8kspt/arena_12.png",[COLOR violet]Arenavision 12[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=3c66395a188d4bcbfdebc264a6e7fc2773f26f35&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/6uaaqpvmp/arena_13.png",[COLOR violet]Arenavision 13[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=e8a5a9089a57da72dc086c2f0eb5d1548bd64502&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/lerdljqld/arena_14.png",[COLOR violet]Arenavision 14[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=2bc26da9693eae2c31fe2eb28bf954d1d5fffa1d&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/frv0o2o2p/arena_15.png",[COLOR violet]Arenavision 15[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=c34aebe981b06ba390d326f2e701728e783bef59&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/ta1x0d081/arena_16.png",[COLOR violet]Arenavision 16[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=bb025fa041af88d244e2d679618f7d776513a3c8&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/69v9o12e9/arena_17.png",[COLOR violet]Arenavision 17[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=e6af032f4a9771f1bd0ef9f5a56a026a1cb28e63&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/958cuw6e9/arena_18.png",[COLOR violet]Arenavision 18[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=bbb4633f28fcf8ceb93ecdbbea0c9640fa09571a&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/r9bdfj42p/arena_19.png",[COLOR violet]Arenavision 19[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=8d9f36420cef77ab07314918d8b5e248362368da&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/tfa9nrwwx/arena_20.png",[COLOR violet]Arenavision 20[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=a432d7ad7f056a1b4fe686465be2daa1ebb110e4&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/igz05l8bl/arena_21.png",[COLOR violet]Arenavision 21[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=30a9517300d0f5cf4817ccc2b4a62560e64a1e2c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/ntnujpw81/arena_22.png",[COLOR violet]Arenavision 22[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=30a9517300d0f5cf4817ccc2b4a62560e64a1e2c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/hh8p9vt5t/arena_23.png",[COLOR violet]Arenavision 23[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=b617014f8a2059aaec7bc4b9ade65a4b9c4af0c1&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/5gn995lr5/arena_24.png",[COLOR violet]Arenavision 24[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=30a9517300d0f5cf4817ccc2b4a62560e64a1e2c&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/b63htgrxd/arena_25.png",[COLOR violet]Arenavision 25[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c4457f740255d3b429b99fb64ad4b142c8232d74&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/8daa9frkx/arena_26.png",[COLOR violet]Arenavision 26[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=e2758e4fa470fd197266fc1f247308f66eebcb5a&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/cnoy50wo1/arena_27.png",[COLOR violet]Arenavision 27[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=35f651680fda9963fa5f2c41510e879bf368c0d8&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/nbsp3v6n5/arena_28.png",[COLOR violet]Arenavision 28[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=7764771f21a919fa5ff35b92517e74fade388bb0&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/6pb4usdpd/arena_29.png",[COLOR violet]Arenavision 29[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=4bf71d5d2a3d74a14a9424a03691639627166bd4&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/dh65bds2p/arena_30.png",[COLOR violet]Arenavision 30[/COLOR] [COLOR orange]VLC[/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=552aad507850568b68d48ec8f844d8e3a08797c0&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng

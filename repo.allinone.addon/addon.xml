@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo.allinone" name="[COLOR red] ALL[COLOR blue]in[/COLOR]ONE [/COLOR]repo" version="0.1" provider-name="JCG">
+	<extension point="xbmc.addon.repository" name="ALLinONE repo">
+		<info compressed="false">http://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>ALLinONE repo - Compilação de vários links e addons</summary>
+		<description>Addon para uso pessoal
+		Compilação de vários links e addons, créditos aos respectivos autores</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

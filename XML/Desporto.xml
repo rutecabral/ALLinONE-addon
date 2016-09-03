@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<items>
+	
+<item>
+    <title>[COLOR gold]AGENDA DESPORTO - PLEXUS/SOPCAST[/COLOR]</title>
+    <link>_</link>
+    <externallink>https://raw.githubusercontent.com/JCG-1978/ALLinONE/master/XML/Agenda%20Desporto.xml</externallink>
+    <thumbnail>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</fanart>
+</item>	
+	
+<item> 
+	<title>TEAM BLUE</title>
+	<link>_</link>
+	<externallink>https://raw.githubusercontent.com/Teamblue1965/MENUS/master/MENU_DESPORTO</externallink>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
+	<fanart>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</fanart>
+</item>
+
+<item> 
+	<title>MARTUNIS</title>
+	<link>_</link>
+	<externallink>http://pastebin.com/raw/MK55J8yP</externallink>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
+	<fanart>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</fanart>
+</item>
+
+
+<item> 
+	<title>INSPIRATION LIVE TV</title>
+	<link>_</link>
+	<externallink>https://raw.githubusercontent.com/inspirationlinks/inspiration/novo-adoon/FUTBOL_LIVE</externallink>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
+	<fanart>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</fanart>
+</item>
+
+<item> 
+	<title>PANCAS TV</title>
+	<link>_</link>
+	<externallink>http://snip.li/DesportoPT</externallink>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
+	<fanart>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</fanart>
+</item>
+
+<item> 
+	<title>BLACKSHARING</title>
+	<link>_</link>
+	<externallink>https://raw.githubusercontent.com/maniackodi2016/kodiblack/master/tv/tv%20desporto.xml</externallink>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
+	<fanart>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</fanart>
+</item>
+
+<item> 
+	<title>WORLD IPTV</title>
+	<link>_</link>
+	<externallink>https://dl.dropboxusercontent.com/s/wo6ad8t3k11msm3/worldiptv/wiptv-Desporto.txt?raw=1</externallink>
+	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
+	<fanart>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</fanart>
+</item>
+
+
+</items>

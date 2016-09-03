@@ -1,0 +1,27 @@
+<item>
+<title>Agenda PLEXUS</title>
+<link>_</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/600x315/f9/8b/d0/f98bd06d37b6db194dda2acecd1aa502.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR turquoise] [I]Arenavision VLC[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/9b/64/17/9b64176a39468a2f24435d04e66c2de4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JCG-1978/ALLinONE/master/XML/Arenavision_VLC.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR turquoise] [I]Arenavision Acestream[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/10/plexus-addon-plugin-xbmc-kodi.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JCG-1978/ALLinONE/master/XML/Arenavision_AceStream.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR turquoise] [I]Arenavision Sopcast[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://helpadude.com/wp-content/uploads/2016/01/sopcasst.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JCG-1978/ALLinONE/master/XML/Arenavision_Spocast.xml</externallink>
+</item>
