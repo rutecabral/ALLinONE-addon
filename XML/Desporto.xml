@@ -60,4 +60,17 @@
 </item>
 
 
+
+
+#EXTINF:-1,POR SportTV 1 HD
+http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2077.ts
+#EXTINF:-1,POR SportTV 2 HD
+http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2076.ts
+#EXTINF:-1,POR SportTV 3 HD
+http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2075.ts
+#EXTINF:-1,POR SportTV 4 HD
+http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2074.ts
+#EXTINF:-1,POR SportTV 5 HD
+http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2073.ts
+
 </items>
