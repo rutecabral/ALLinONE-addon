@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon	id="plugin.video.allinone" 
-		name="[COLOR red] ALL[COLOR blue]in[/COLOR]ONE [/COLOR]" 
-		version="0.2" 
-		provider-name="JCG">
+<addon id="plugin.video.allinone"
+       name="[COLOR red] ALL[COLOR blue]in[/COLOR]ONE [/COLOR]"
+       version="0.5"
+       provider-name="JCG">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4"/>
-    <import addon="script.module.requests"/>
-    <import addon="script.module.httplib2"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
     <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube"/>
+    <import addon="plugin.video.youtube" optional="true" />
     <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson"/> 
+    <import addon="script.module.simplejson" />    
+     <import addon="script.module.livestreamer" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
+    <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>ALLinONE - Compilação de vários links e addons</summary>
     <description>Addon para uso pessoal
-	Compilação de vários links e addons, créditos aos respectivos autores</description>
+Compilação de vários links e addons, créditos aos respectivos autores</description>
     <platform>all</platform>
   </extension>
 </addon>

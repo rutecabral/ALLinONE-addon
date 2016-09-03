@@ -18,7 +18,7 @@
 
 <addon id="plugin.video.allinone"
        name="[COLOR red] ALL[COLOR blue]in[/COLOR]ONE [/COLOR]"
-       version="0.4"
+       version="0.5"
        provider-name="JCG">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
