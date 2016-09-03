@@ -3,7 +3,7 @@
 <item> 
 	<title>[COLOR green]--==|[/COLOR][COLOR red] Desenhos Animados [/COLOR][COLOR green]|==--[/COLOR]</title>
 	<link>_</link>
-	<externallink>https://raw.githubusercontent.com/JCG-1978/ALLinONE/master/XML/Desenhos%20Animados.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Desenhos%20Animados.xml</externallink>
 	<thumbnail>http://videosinfantis.pt/wp-content/uploads/2013/07/Panda-e-os-Caricas.jpg</thumbnail>
 	<fanart>http://videosinfantis.pt/wp-content/uploads/2013/07/Panda-e-os-Caricas.jpg</fanart>
 </item>
@@ -12,7 +12,7 @@
 <item> 
 	<title>[COLOR green]--==|[/COLOR][COLOR red] Desporto [/COLOR][COLOR green]|==--[/COLOR]</title>
 	<link>_</link>
-	<externallink>https://raw.githubusercontent.com/JCG-1978/ALLinONE/master/XML/Desporto.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Desporto.xml</externallink>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
 	<fanart>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</fanart>
 </item>
@@ -21,7 +21,7 @@
 <item> 
 	<title>[COLOR green]--==|[/COLOR][COLOR red] Canais Filmes [/COLOR][COLOR green]|==--[/COLOR]</title>
 	<link>_</link>
-	<externallink>https://raw.githubusercontent.com/JCG-1978/ALLinONE/master/XML/TV%20cinema.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/TV%20cinema.xml</externallink>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png</thumbnail>
 	<fanart>http://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png</fanart>
 </item>
@@ -30,7 +30,7 @@
 <item> 
 	<title>[COLOR green]--==|[/COLOR][COLOR red] Canais Música [/COLOR][COLOR green]|==--[/COLOR]</title>
 	<link>_</link>
-	<externallink>https://raw.githubusercontent.com/JCG-1978/ALLinONE/master/XML/Musica.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Musica.xml</externallink>
 	<thumbnail>http://www.underconsideration.com/brandnew/archives/vevo_logo_detail.gif</thumbnail>
 	<fanart>http://www.underconsideration.com/brandnew/archives/vevo_logo_detail.gif</fanart>
 </item>
@@ -39,14 +39,14 @@
 <title>[COLOR blue] INSPIRATION LIVE TV [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://s32.postimg.org/dmr6lu16t/tv2.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/inspirationlinks/inspiration/novo-adoon/plugin.video.inspiration</externallink>
+<externallink>https://raw.githubusercontent.com/JN1974/enfim/master/Addon_plugin</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] TEAM BLUE - LIVE EVENTS [/COLOR] </title>
+<title>[COLOR blue] TEAMBLUE - LIVE EVENTS [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://s32.postimg.org/6xv196jk5/teamblue.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Teamblue65/Kodi-plugin-video/master/plugin.video.teamblue</externallink>
+<externallink>https://raw.githubusercontent.com/Teamblue1965/MENUS/master/MENU_PRINCIPAL</externallink>
 </item>
 
 <item>
@@ -97,7 +97,7 @@
 </item>
 
 <item> 
-	<title>--</title>
+	<title>-</title>
 	<link>_</link>
 	<externallink>https://raw.githubusercontent.com/JCG-1978/ALLinONE/master/XML/Canais%20temporarios.xml</externallink>
 	<thumbnail></thumbnail>
