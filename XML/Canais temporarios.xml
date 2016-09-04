@@ -5,105 +5,54 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>            
-
-
 </items>
 </channel>
- 
-
-
-
-
 
 <channel>
 <name>Temp 2 - 00/00/2016</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
-
-
 </items>
 </channel>
-
-
-
-
-
 
 <channel>
 <name>Temp 3 - 00/00/2016</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
-
-
 </items>
 </channel>
     
-
-
-
-
 <channel>
 <name>-</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
-  
 <item> 
 <title>PORTUGAL:VENUS TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1586.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:VENUS TV</link> 
 </item> 
-
 <item> 
 <title>PORTUGAL:HOT</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:HOT</link> 
 </item> 
-
 <item> 
 <title>PORTUGAL:PLAYBOY TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1584.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:PLAYBOY TV</link> 
 </item> 
-          
-</items>
-
-</channel>
-
-
-
-
-
-
-
-
-<channel>
-<name>--</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<items>
-
-<item>
-<externallink>http://pastebin.com/raw/uBjrNq2b</externallink>
-</item>	 
-
 </items>
 </channel>
-
 
 <channel>
 <name>---</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
-
 <item>
 <externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Xtemp-04.09.16.xml</externallink>
 </item>	 
-
 </items>
 </channel>
-
-
-
 
 </channels>
