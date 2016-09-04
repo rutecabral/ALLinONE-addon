@@ -86,14 +86,22 @@
 <externallink>http://pastebin.com/raw/uBjrNq2b</externallink>
 </item>	 
 
+</items>
+</channel>
+
+
+<channel>
+<name>---</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
 <item>
 <externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Xtemp-04.09.16.xml</externallink>
 </item>	 
 
 </items>
 </channel>
-
-
 
 
 
