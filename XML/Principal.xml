@@ -17,6 +17,30 @@
 	<fanart>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</fanart>
 </item>
 
+<item>
+<title>[COLOR green]--==|[/COLOR][COLOR red] Agenda Arenavision [/COLOR][COLOR green]|==--[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param4][/COLOR][COLOR skyblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ALLinONE+[makelist.param3]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://www.marcoensefm.com/wp-content/uploads/2013/06/Logo-Desporto.jpg</thumbnail>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>http://www.marcoensefm.com/wp-content/uploads/2013/06/Logo-Desporto.jpg</thumbnail>
+</item>
+
 
 <item> 
 	<title>[COLOR green]--==|[/COLOR][COLOR red] Canais Filmes [/COLOR][COLOR green]|==--[/COLOR]</title>
@@ -83,16 +107,6 @@
 <thumbnail>https://2.bp.blogspot.com/-W6_zqckZ2aw/V3KW1lTNAUI/AAAAAAAAS6I/7aZVzKXQrjsfYMbpGqpF99nYJN1BlEY8QCLcB/s1600/TV%2BSuper%2BTuga%2BKodi%2BAddon%2B90.png</thumbnail>
 <externallink>http://teamtuga4ever.net23.net/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%20Principal.xml</externallink>
 </item>
-
-
-<item>
-<title>[COLOR blue] CASMART [/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail>https://s31.postimg.org/brq2p7t17/icon.jpg</thumbnail>
-<externallink>https://goo.gl/eSRKZr</externallink>
-</item>
-
-
 
 <item>
 <title>[COLOR blue] MACLINE [/COLOR] </title>
