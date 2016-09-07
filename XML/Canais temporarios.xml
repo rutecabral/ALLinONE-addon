@@ -1,10 +1,406 @@
 <channels>
 
 <channel>
-<name>Temp 1 - 00/00/2016</name>
+<name>IPTV Low Cost - Gratuita - 07/09/2016</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<items>            
+<items>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<stream>
+
+<item>
+<title>[COLOR lime]****[COLOR cyan] Created on [COLOR yellow]09-07-2016 [COLOR lime]****[/COLOR]</title>
+<link>_</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold]PT_RTP1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_RTP2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SIC[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TVI[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SIC_NOTICIAS[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_NOTICIAS</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TVI_24[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_24</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_RTP_INFORMACAO[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_INFORMACAO</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_CM_TV[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CM_TV</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TVI_FICCAO[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_FICCAO</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_+_TVI[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_+_TVI</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_PORTO_CANAL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PORTO_CANAL</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_RTP_3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_VH1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VH1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SPORT_TV_1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SPORT_TV_2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SPORT_TV_2_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_2_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SPORT_TV_3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SPORT_TV_4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SPORT_TV_5[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_5</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_BTV_1_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BTV_1_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_BTV_2_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BTV_2_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SPORTING_TV_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORTING_TV_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_CINEMUNDO[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CINEMUNDO</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_HOLLYWOOD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_HOLLYWOOD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TVCINE_1_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_1_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TVCINE_2_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_2_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TVCINE_3_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_3_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TVCINE_4_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_4_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TV_SERIES[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_SERIES</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_FOX_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_FOX_LIFE_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_LIFE_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_FOX_CRIME_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_CRIME_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_FOX_MOVIES[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_MOVIES</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_AXN_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_AXN_BLACK_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_BLACK_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_AXN_WHITE_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_WHITE_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_VEVO_1_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_1_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_VEVO_3_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_3_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_VEVO_2_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_2_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_RTP_ACORES[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_ACORES</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_AFRICA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AFRICA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_MOTORS_TV[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MOTORS_TV</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_DISNEY_CHANNEL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISNEY_CHANNEL</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_DISNEY_JUNIOR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISNEY_JUNIOR</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_CANAL_PANDA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CANAL_PANDA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_BIGGS[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BIGGS</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_DISCOVERY[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISCOVERY</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_CARTOON_NETWORK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CARTOON_NETWORK</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SIC_RADICAL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_RADICAL</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_CANAL_HISTORIA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CANAL_HISTORIA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_NATIONAL_GEOGRAPHIC_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NATIONAL_GEOGRAPHIC_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_NAT_GEO_WILD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NAT_GEO_WILD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_24_KITCHEN_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_24_KITCHEN_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SIC_KIDS[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1376.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_KIDS</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SIC_MULHER[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1380.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_MULHER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_CACA_ PESCA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CACA_ PESCA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TV_GLOBO_PREMIUN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO_PREMIUN</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_BENFICATV_2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1418.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BENFICATV_2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SIC_CARAS[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_CARAS</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_ECONOMICO_TV[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ECONOMICO_TV</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_JIM_JAM[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_JIM_JAM</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_ODISSEIA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ODISSEIA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TRAVEL_CHANNEL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TRAVEL_CHANNEL</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_SYFY[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SYFY</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_MOV_HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MOV_HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_EUROSPORT[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_E_ENTERTAINMENT[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_E_ENTERTAINMENT</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_RTP_MEMORIA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_MEMORIA</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_RTP_INTERNACIONAL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_INTERNACIONAL</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_AMC[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AMC</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_BENFICATV_1HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BENFICATV_1HD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_REAL_MADRID_TV[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_REAL_MADRID_TV</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_CNN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CNN</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TV_RECORD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_RECORD</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_TV_GLOBO[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold]PT_NICKELODEON[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NICKELODEON</link>
+<thumbnail></thumbnail>
+</item>
+
+</stream>
+
+
+
+
 </items>
 </channel>
 
