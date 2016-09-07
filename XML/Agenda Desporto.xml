@@ -8,12 +8,10 @@
 <item>
 <title>[COLOR gold]Castaway Agenda TEST[/COLOR]</title>
 <link>_</link>
-<jsonrpc>plugin://plugin.video.castaway/?mode=p2p_corner</jsonrpc>
+<jsonrpc>plugin://plugin.video.castaway/?mode=p2p_corner/?mode=arenavision</jsonrpc>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/600x315/f9/8b/d0/f98bd06d37b6db194dda2acecd1aa502.jpg</thumbnail>
 </item>
 
-
-p2p_corner
 <item>
 <title>[COLOR turquoise]Arenavision VLC[/COLOR] </title>
 <link>http://ignorame</link>
