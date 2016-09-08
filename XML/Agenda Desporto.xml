@@ -8,28 +8,28 @@
 <item>
 <title>[COLOR gold]Castaway Agenda TEST[/COLOR]</title>
 <link>_</link>
-<jsonrpc>plugin://plugin.video.castaway/?mode=open_p2p_sport&site=arenavision</jsonrpc>
+<jsonrpc>plugin://plugin.video.castaway/?mode=p2p_corner&site=arenavision</jsonrpc>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/600x315/f9/8b/d0/f98bd06d37b6db194dda2acecd1aa502.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR gold]Castaway Agenda TEST 2[/COLOR]</title>
 <link>_</link>
-<jsonrpc>('plugin://plugin.video.castaway/','22','?mode=open_p2p_sport&site=arenavision')</jsonrpc>
+<jsonrpc>('plugin://plugin.video.castaway/','22','?mode=p2p_corner&site=arenavision')</jsonrpc>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/600x315/f9/8b/d0/f98bd06d37b6db194dda2acecd1aa502.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR gold]Castaway Agenda TEST 3[/COLOR]</title>
 <link>_</link>
-<jsonrpc>'plugin://plugin.video.castaway/','22','?mode=open_p2p_sport&site=arenavision'</jsonrpc>
+<jsonrpc>'plugin://plugin.video.castaway/','22','?mode=p2p_corner&site=arenavision'</jsonrpc>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/600x315/f9/8b/d0/f98bd06d37b6db194dda2acecd1aa502.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR gold]Castaway Agenda TEST 4[/COLOR]</title>
 <link>_</link>
-<jsonrpc>plugin://plugin.video.castaway/','22','?mode=open_p2p_sport&site=arenavision</jsonrpc>
+<jsonrpc>plugin://plugin.video.castaway/','22','?mode=p2p_corner&site=arenavision</jsonrpc>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/600x315/f9/8b/d0/f98bd06d37b6db194dda2acecd1aa502.jpg</thumbnail>
 </item>
 
