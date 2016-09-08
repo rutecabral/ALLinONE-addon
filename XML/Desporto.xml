@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <items>
+
+<item>
+<title>[COLOR gold]Arenavision VLC[/COLOR] </title>
+<link>_</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/9b/64/17/9b64176a39468a2f24435d04e66c2de4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Arenavision_VLC.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR gold]Arenavision Acestream[/COLOR] </title>
+<link>_</link>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/10/plexus-addon-plugin-xbmc-kodi.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Arenavision_AceStream.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR gold]Arenavision Sopcast[/COLOR] </title>
+<link>_</link>
+<thumbnail>http://helpadude.com/wp-content/uploads/2016/01/sopcasst.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Arenavision_Spocast.xml</externallink>
+</item>
+
+<item> 
+<title>[COLOR red]*************************************[/COLOR]</title> 
+<link>_</link> 
+</item> 
 	
 <item> 
 <title>[COLOR gold]SPORT TV 1[/COLOR]</title> 
