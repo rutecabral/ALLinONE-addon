@@ -2,19 +2,6 @@
 
 <items>
 	
-<item>
-    <title>[COLOR gold]AGENDA DESPORTO - PLEXUS/SOPCAST[/COLOR]</title>
-    <link>_</link>
-    <externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Agenda%20Desporto.xml</externallink>
-    <thumbnail>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</thumbnail>
-    <fanart>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</fanart>
-</item>	
-
-<item> 
-<title>[COLOR red]*****************************************[/COLOR]</title> 
-<link>_</link> 
-</item> 
-	
 <item> 
 <title>[COLOR gold]SPORT TV 1[/COLOR]</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link> 
@@ -41,7 +28,7 @@
 </item> 
 	
 <item> 
-<title>[COLOR red]*****************************************[/COLOR]</title> 
+<title>[COLOR red]*************************************[/COLOR]</title> 
 <link>_</link> 
 </item> 
 	
