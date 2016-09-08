@@ -47,3 +47,19 @@
 	<thumbnail>http://www.multipelife.com/wp-content/uploads/2015/12/kodi-addons.jpg</thumbnail>
 	<fanart>http://www.multipelife.com/wp-content/uploads/2015/12/kodi-addons.jpg</fanart>
 </item>
+
+<item>
+	<title>[COLOR cyan]--==|[/COLOR][COLOR gold] SPECTO - FILMES [/COLOR][COLOR cyan]|==--[/COLOR]</title>
+	<link>_</link>
+	<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
+	<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
+	<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR cyan]--==|[/COLOR][COLOR gold] SPECTO - SÉRIES [/COLOR][COLOR cyan]|==--[/COLOR]</title>
+	<link>_</link>
+	<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
+	<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
+	<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
+</item>
