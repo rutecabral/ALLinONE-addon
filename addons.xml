@@ -32,13 +32,12 @@
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />    
     <import addon="script.module.livestreamer" optional="true"/>
-	<import addon="plugin.video.f4mTester" version="2.2.5" />
-	<import addon="plugin.video.castaway" version="0.2.8" />
-	<import addon="plugin.video.p2psport" version="0.1.5" />
-	<import addon="script.video.F4mProxy" version="2.5.3" />
-	<import addon="plugin.video.SportsDevil" version="2016.09.06" />
-	<import addon="plugin.video.specto" version="2016.09.01.1" />
-	
+    <import addon="plugin.video.f4mTester" version="2.2.5" />
+    <import addon="plugin.video.castaway" version="0.2.8" />
+    <import addon="plugin.video.p2psport" version="0.1.5" />
+    <import addon="script.video.F4mProxy" version="2.5.3" />
+    <import addon="plugin.video.SportsDevil" version="2016.09.06" />
+    <import addon="plugin.video.specto" version="2016.09.01.1" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
