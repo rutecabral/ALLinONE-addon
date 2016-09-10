@@ -1,26 +1,12 @@
 <item>
-<title>[COLOR turquoise]Arenavision VLC[/COLOR] </title>
+<title>[COLOR cyan]--==|[/COLOR][COLOR gold] Arenavision VLC - Martunis [/COLOR][COLOR cyan]|==--[/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/9b/64/17/9b64176a39468a2f24435d04e66c2de4.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Arenavision_VLC.xml</externallink>
+<externallink>http://pastebin.com/raw/vgnZ06FZ</externallink>
 </item>
 
 <item>
-<title>[COLOR turquoise]Arenavision Acestream[/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/10/plexus-addon-plugin-xbmc-kodi.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Arenavision_AceStream.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR turquoise]Arenavision Sopcast[/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail>http://helpadude.com/wp-content/uploads/2016/01/sopcasst.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Arenavision_Spocast.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR gold]Agenda Arenavision[/COLOR]</title>
+<title>[COLOR cyan]--==|[/COLOR][COLOR gold] Agenda Arenavision [/COLOR][COLOR cyan]|==--[/COLOR]</title>
 <link>_</link>
 <jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/600x315/f9/8b/d0/f98bd06d37b6db194dda2acecd1aa502.jpg</thumbnail>
