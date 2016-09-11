@@ -1,78 +1,77 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR blue] LISTA TV ALGAS [/COLOR] </title>
+<title>[COLOR gold] KODI BOX [/COLOR](alterar dns) </title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<externallink>http://pastebin.com/raw/Hd6cxJBU</externallink>
+<thumbnail>http://i.imgur.com/w13ICj6.png</thumbnail>
+<externallink>http://www.warez-box.com/KodiBox/KodiBox/home.txt</externallink>
 </item>
 
-
 <item>
-<title>[COLOR blue] INSPIRATION LIVE TV [/COLOR] </title>
+<title>[COLOR gold] INSPIRATION LIVE TV [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://s32.postimg.org/dmr6lu16t/tv2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/JN1974/enfim/master/Addon_plugin</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] TEAMBLUE - LIVE EVENTS [/COLOR] </title>
+<title>[COLOR gold] TEAMBLUE - LIVE EVENTS [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://s32.postimg.org/6xv196jk5/teamblue.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Teamblue1965/MENUS/master/MENU_PRINCIPAL</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] MARTUNIS [/COLOR] </title>
+<title>[COLOR gold] MARTUNIS [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://s32.postimg.org/t0ihl8olh/martunis.jpg</thumbnail>
 <externallink>http://pastebin.com/raw/K2X65rB3</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] BLACK SHARING [/COLOR] </title>
+<title>[COLOR gold] BLACK SHARING [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://i65.tinypic.com/20ap66g.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/maniackodi2016/kodiblack/master/menu/menus.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] LOGANADDON [/COLOR] </title>
+<title>[COLOR gold] LOGANADDON [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://vitor1983.netai.net/loganaddon.repository/icon.png</thumbnail>
 <externallink>https://www.dropbox.com/s/u12vbu1vps54mak/logan-Menu-Principal.xml?dl=1</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] PANCAS TV [/COLOR] </title>
+<title>[COLOR gold] PANCAS TV [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/02/Pancas-Addon-1.png</thumbnail>
 <externallink>https://www.dropbox.com/s/9fzvl7k4htxdb8x/lista.xml?dl=1</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] TV SUPERTUGA [/COLOR] </title>
+<title>[COLOR gold] TV SUPERTUGA [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>https://2.bp.blogspot.com/-W6_zqckZ2aw/V3KW1lTNAUI/AAAAAAAAS6I/7aZVzKXQrjsfYMbpGqpF99nYJN1BlEY8QCLcB/s1600/TV%2BSuper%2BTuga%2BKodi%2BAddon%2B90.png</thumbnail>
 <externallink>http://teamtuga4ever.net23.net/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%20Principal.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] MACLINE [/COLOR] </title>
+<title>[COLOR gold] MACLINE [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>https://static.wixstatic.com/media/efc88f_207d0f11a67144939e921c23a3ad308c~mv2.jpg/v1/fill/w_600,h_400,al_c,q_80,usm_0.66_1.00_0.01/efc88f_207d0f11a67144939e921c23a3ad308c~mv2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/pt</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] KODI BOX [/COLOR] </title>
+<title>[COLOR gold] LISTA TV ALGAS [/COLOR] </title>
 <link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/w13ICj6.png</thumbnail>
-<externallink>http://www.warez-box.com/KodiBox/KodiBox/home.txt</externallink>
+<thumbnail></thumbnail>
+<externallink>http://pastebin.com/raw/Hd6cxJBU</externallink>
 </item>
 
 <item> 
-<title>_</title>
+<title>[COLOR black]_[/COLOR]</title>
 <link>_</link>
 <externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Canais%20temporarios.xml</externallink>
 <thumbnail></thumbnail>
