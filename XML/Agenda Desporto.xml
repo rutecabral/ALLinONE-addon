@@ -1,19 +1,19 @@
 <item>
-<title>[COLOR cyan]--==|[/COLOR][COLOR gold] Arenavision VLC - Martunis [/COLOR][COLOR cyan]|==--[/COLOR]</title>
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] Arenavision VLC - Martunis [/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/9b/64/17/9b64176a39468a2f24435d04e66c2de4.jpg</thumbnail>
 <externallink>http://pastebin.com/raw/vgnZ06FZ</externallink>
 </item>
 
 <item>
-<title>[COLOR cyan]--==|[/COLOR][COLOR gold] Agenda Arenavision [/COLOR][COLOR cyan]|==--[/COLOR]</title>
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] Agenda Arenavision [/COLOR]</title>
 <link>_</link>
 <jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/600x315/f9/8b/d0/f98bd06d37b6db194dda2acecd1aa502.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR cyan]--==|[/COLOR][COLOR gold] Agenda Arenavision [/COLOR][COLOR cyan]|==--[/COLOR]</title>
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] Agenda Arenavision [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
