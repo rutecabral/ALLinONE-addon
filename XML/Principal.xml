@@ -49,24 +49,16 @@
 </item>
 
 <item>
-<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - Filmes e Séries[/COLOR]</title>
-<link>_</link>
-<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
-<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
-<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
-
-<subitem>
-	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - FILMES [/COLOR]</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - Filmes [/COLOR]</title>
 	<link>_</link>
 	<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
 	<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
 	<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
-</subitem>
-<subitem>
-	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - SÉRIES [/COLOR]</title>
+</item>
+<item>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - Séries [/COLOR]</title>
 	<link>_</link>
 	<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
 	<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
 	<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
-</subitem>
 </item>
