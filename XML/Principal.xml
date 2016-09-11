@@ -48,28 +48,25 @@
 	<fanart>http://www.multipelife.com/wp-content/uploads/2015/12/kodi-addons.jpg</fanart>
 </item>
 
-<channels>
-<channel>
+<item>
 <title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - Filmes e Séries[/COLOR]</title>
 <link>_</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
 <thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
 <fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
-<items>
-<item>
+
+<subitem>
 	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - FILMES [/COLOR]</title>
 	<link>_</link>
 	<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
 	<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
 	<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
-</item>
-<item>
+</subitem>
+<subitem>
 	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - SÉRIES [/COLOR]</title>
 	<link>_</link>
 	<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
 	<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
 	<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
+</subitem>
 </item>
-</items>
-</channel>
-</channels>
