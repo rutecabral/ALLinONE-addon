@@ -3,21 +3,21 @@
 <items>
 
 <item>
-<title>[COLOR gold]Arenavision VLC[/COLOR] </title>
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  Arenavision VLC[/COLOR] </title>
 <link>_</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/9b/64/17/9b64176a39468a2f24435d04e66c2de4.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Arenavision_VLC.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR gold]Arenavision Acestream[/COLOR] </title>
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  Arenavision Acestream[/COLOR] </title>
 <link>_</link>
 <thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/10/plexus-addon-plugin-xbmc-kodi.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Arenavision_AceStream.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR gold]Arenavision Sopcast[/COLOR] </title>
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  Arenavision Sopcast[/COLOR] </title>
 <link>_</link>
 <thumbnail>http://helpadude.com/wp-content/uploads/2016/01/sopcasst.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Arenavision_Spocast.xml</externallink>
@@ -29,27 +29,27 @@
 </item> 
 	
 <item> 
-<title>[COLOR gold]SPORT TV 1[/COLOR]</title> 
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPORT TV 1[/COLOR]</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link> 
 </item> 
 
 <item> 
-<title>[COLOR gold]SPORT TV 2[/COLOR]</title> 
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPORT TV 2[/COLOR]</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2076.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2</link> 
 </item> 
 
 <item> 
-<title>[COLOR gold]SPORT TV 3[/COLOR]</title> 
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPORT TV 3[/COLOR]</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2075.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3</link> 
 </item> 
 
 <item> 
-<title>[COLOR gold]SPORT TV 4[/COLOR]</title> 
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPORT TV 4[/COLOR]</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2074.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4</link> 
 </item> 
 
 <item> 
-<title>[COLOR gold]SPORT TV 5[/COLOR]</title> 
+<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPORT TV 5[/COLOR]</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://ipstream.skyvps.org:8000/live/uaug0607x/vS7vk43q4o/2073.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5</link> 
 </item> 
 	
@@ -59,7 +59,7 @@
 </item> 
 
 <item> 
-	<title>KODI BOX</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  KODI BOX[/COLOR]</title>
 	<link>_</link>
 	<externallink>http://www.warez-box.com/KodiBox/KodiBox/LiveTV/Portugal Sports/portugal.txt</externallink>
 	<thumbnail>http://i.imgur.com/w13ICj6.png</thumbnail>
@@ -67,7 +67,7 @@
 </item>
 	
 <item> 
-	<title>TEAM BLUE</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  TEAM BLUE[/COLOR]</title>
 	<link>_</link>
 	<externallink>https://raw.githubusercontent.com/Teamblue1965/MENUS/master/MENU_DESPORTO</externallink>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
@@ -75,7 +75,7 @@
 </item>
 
 <item> 
-	<title>MARTUNIS</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  MARTUNIS[/COLOR]</title>
 	<link>_</link>
 	<externallink>http://pastebin.com/raw/MK55J8yP</externallink>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
@@ -84,7 +84,7 @@
 
 
 <item> 
-	<title>INSPIRATION LIVE TV</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  INSPIRATION LIVE TV[/COLOR]</title>
 	<link>_</link>
 	<externallink>https://raw.githubusercontent.com/JN1974/enfim/master/FUTBOL</externallink>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
@@ -92,7 +92,7 @@
 </item>
 
 <item> 
-	<title>PANCAS TV</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  PANCAS TV[/COLOR]</title>
 	<link>_</link>
 	<externallink>http://tinyurl.com/hs5t2tt</externallink>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
@@ -100,7 +100,7 @@
 </item>
 
 <item> 
-	<title>BLACKSHARING</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  BLACKSHARING[/COLOR]</title>
 	<link>_</link>
 	<externallink>https://raw.githubusercontent.com/maniackodi2016/kodiblack/master/tv/tv%20desporto.xml</externallink>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
@@ -108,7 +108,7 @@
 </item>
 
 <item> 
-	<title>WORLD IPTV</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  WORLD IPTV[/COLOR]</title>
 	<link>_</link>
 	<externallink>https://dl.dropboxusercontent.com/s/wo6ad8t3k11msm3/worldiptv/wiptv-Desporto.txt?raw=1</externallink>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
