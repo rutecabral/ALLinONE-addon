@@ -48,6 +48,7 @@
 	<fanart>http://www.multipelife.com/wp-content/uploads/2015/12/kodi-addons.jpg</fanart>
 </item>
 
+<channels>
 <channel>
 <title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - Filmes e Séries[/COLOR]</title>
 <link>_</link>
@@ -71,3 +72,4 @@
 </item>
 </items>
 </channel>
+</channels>
