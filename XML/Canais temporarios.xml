@@ -421,7 +421,7 @@
 </channel>
     
 <channel>
-<name>-</name>
+<name>_</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
@@ -437,11 +437,41 @@
 <title>PORTUGAL:PLAYBOY TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1584.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:PLAYBOY TV</link> 
 </item> 
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VENUS [B][COLOR blue](HTTP)[/B][/COLOR]</title>
+<link>http://stream.zetatv.cf/pw/venus_b9d5p71/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/bkfzinK.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VENUS [B][COLOR blue](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2083/</link>
+<thumbnail>https://i.imgur.com/bkfzinK.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]Hustler HD [B][COLOR blue](HTTP)[/B][/COLOR]</title>
+<link>http://37.195.247.86:81/udp/239.1.6.35:1234</link>
+<thumbnail>https://i.imgur.com/XEBYkzM.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]Playboy TV [B][COLOR blue](HTTP)[/B][/COLOR]</title>
+<link>http://94.230.113.121:81/udp/239.1.6.39:1234</link>
+<thumbnail>https://i.imgur.com/qVWHpcx.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HOT [B][COLOR blue](HTTP)[/B][/COLOR] [B][COLOR orange] [Exclusivo KodiBox] [/B][/COLOR]</title>
+<link>http://83.79.80.110:9000/play/a02n</link>
+<thumbnail>https://i.imgur.com/qiTn5lb.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]Satisfaction TV [B][COLOR blue](HTTP)[/B][/COLOR]</title>
+<link>http://78.46.64.13:1935/tv3/myStream/chunklist_w1400829797.m3u8</link>
+<thumbnail>https://i.imgur.com/aZmTErf.png</thumbnail>
+</item>
 </items>
 </channel>
 
 <channel>
-<name>---</name>
+<name>_</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
