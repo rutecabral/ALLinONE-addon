@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item> 
-	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] Desenhos Animados [/COLOR][COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR]</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  Desenhos Animados [/COLOR]</title>
 	<link>_</link>
 	<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Desenhos%20Animados.xml</externallink>
 	<thumbnail>http://videosinfantis.pt/wp-content/uploads/2013/07/Panda-e-os-Caricas.jpg</thumbnail>
@@ -10,7 +10,7 @@
 
 
 <item> 
-	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] Desporto [/COLOR][COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR]</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  Desporto [/COLOR]</title>
 	<link>_</link>
 	<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Desporto.xml</externallink>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png</thumbnail>
@@ -18,14 +18,14 @@
 </item>
 
 <item>
-	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] Castaway Acestream Agenda [/COLOR][COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR]</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  Castaway Acestream Agenda [/COLOR]</title>
 	<link>_</link>
 	<jsonrpc>plugin://plugin.video.castaway?mode=p2p_corner&mode=open_p2p_sport&site=arenavision</jsonrpc>
 	<thumbnail>https://s-media-cache-ak0.pinimg.com/600x315/f9/8b/d0/f98bd06d37b6db194dda2acecd1aa502.jpg</thumbnail>
 </item>
 
 <item> 
-	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] Canais Filmes [/COLOR][COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR]</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  Canais Filmes [/COLOR]</title>
 	<link>_</link>
 	<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/TV%20cinema.xml</externallink>
 	<thumbnail>http://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png</thumbnail>
@@ -33,7 +33,7 @@
 </item>
 
 <item> 
-	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] Canais Música [/COLOR][COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR]</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  Canais Música [/COLOR]</title>
 	<link>_</link>
 	<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Musica.xml</externallink>
 	<thumbnail>http://www.underconsideration.com/brandnew/archives/vevo_logo_detail.gif</thumbnail>
@@ -41,7 +41,7 @@
 </item>
 
 <item> 
-	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] Outros Addons [/COLOR][COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR]</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  Outros Addons [/COLOR]</title>
 	<link>_</link>
 	<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Outros_addons.xml</externallink>
 	<thumbnail>http://www.multipelife.com/wp-content/uploads/2015/12/kodi-addons.jpg</thumbnail>
@@ -49,7 +49,7 @@
 </item>
 
 <item>
-	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] SPECTO - FILMES [/COLOR][COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR]</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - FILMES [/COLOR]</title>
 	<link>_</link>
 	<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
 	<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
@@ -57,7 +57,7 @@
 </item>
 
 <item>
-	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] SPECTO - SÉRIES [/COLOR][COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR]</title>
+	<title>[COLOR green]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]•[/COLOR][COLOR gold]  SPECTO - SÉRIES [/COLOR]</title>
 	<link>_</link>
 	<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
 	<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
