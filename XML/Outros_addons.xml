@@ -61,14 +61,20 @@
 <title>[COLOR blue] MACLINE [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>https://static.wixstatic.com/media/efc88f_207d0f11a67144939e921c23a3ad308c~mv2.jpg/v1/fill/w_600,h_400,al_c,q_80,usm_0.66_1.00_0.01/efc88f_207d0f11a67144939e921c23a3ad308c~mv2.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/pt
-</externallink>
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/pt</externallink>
+</item>
+
+<item>
+<title>[COLOR blue] KODI BOX [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/w13ICj6.png</thumbnail>
+<externallink>http://www.warez-box.com/KodiBox/KodiBox/home.txt</externallink>
 </item>
 
 <item> 
-	<title>-</title>
-	<link>_</link>
-	<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Canais%20temporarios.xml</externallink>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+<title>_</title>
+<link>_</link>
+<externallink>https://raw.githubusercontent.com/JCG-78/ALLinONE-addon/master/XML/Canais%20temporarios.xml</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
