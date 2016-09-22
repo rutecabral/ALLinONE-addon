@@ -420,23 +420,48 @@
 </items>
 </channel>
     
+    #EXTINF:-1,+18 VENUS
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1653.ts
+#EXTINF:-1,+18 playboy
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1803.ts
+#EXTINF:-1,+18 PRIVATE TV
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1517.ts
+#EXTINF:-1,+18 JASMIN TV
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1516.ts
+#EXTINF:-1,+18 Hot
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2007.ts
+#EXTINF:-1,+18 Brazzers HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2009.ts
+#EXTINF:-1,+18 Hustler HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2008.ts
+    
+    
 <channel>
 <name>_</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
 <item> 
-<title>PORTUGAL:VENUS TV</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1586.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:VENUS TV</link> 
+<title>VENUS</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=VENUS TV</link> 
 </item> 
 <item> 
-<title>PORTUGAL:HOT</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:HOT</link> 
+<title>HOT</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2007.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOT</link> 
 </item> 
 <item> 
-<title>PORTUGAL:PLAYBOY TV</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1584.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:PLAYBOY TV</link> 
-</item> 
+<title>PLAYBOY TV</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1803.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV</link> 
+</item>
+<title>Brazzers</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2009.ts&amp;streamtype=TSDOWNLOADER&amp;name=Brazzers</link> 
+</item>
+<title>Hustler</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2008.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hustler</link> 
+</item>
+
+
+
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VENUS [B][COLOR blue](HTTP)[/B][/COLOR]</title>
 <link>http://stream.zetatv.cf/pw/venus_b9d5p71/chunklist.m3u8</link>
